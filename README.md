@@ -1,1 +1,2 @@
-https://covid-app-react.netlify.app/
+netlify:
+https://covid-app-bisma.netlify.app/
